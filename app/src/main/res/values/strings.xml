@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="overview">Overview</string>
+    <string name="category">Category</string>
+    <string name="score">Score</string>
+    <string name="release_date">Release Date:</string>
+    <string name="movie">Movie</string>
+    <string name="search">Search</string>
+</resources>
